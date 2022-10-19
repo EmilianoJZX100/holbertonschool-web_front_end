@@ -1,2 +1,2 @@
 # holbertonschool-web_front_end
-Advanced HTML P
+Advanced HTML Project
